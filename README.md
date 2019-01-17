@@ -1,4 +1,4 @@
-# git-inst:page_facing_up:
+# git-inst:bookmark_tabs:
 
 
 ## Refer All My 'gists' at [purvesh-gists](https://gist.github.com/purveshmakode24)
