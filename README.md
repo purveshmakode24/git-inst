@@ -1,7 +1,7 @@
 # git-inst:bookmark_tabs:
 
 
-### Direct link to all my 'gists/notes' at [purveshmakode24/git-inst](https://gist.github.com/purveshmakode24).
+### Direct link to all my `gists/notes` at [purveshmakode24/git-inst](https://gist.github.com/purveshmakode24).
 
 ## Gists:
 
