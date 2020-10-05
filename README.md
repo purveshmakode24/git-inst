@@ -4,7 +4,7 @@
 
 # git-inst:bookmark_tabs:
 
-Create your Technical/Non-technical gists or even stories and share it to the world!
+Create your Technical/Non-technical gists or even stories and share them to the world!
 
 How this works:
 - Go to profile icon to the top right corner -> click on `Your gists` 
