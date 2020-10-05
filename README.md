@@ -1,3 +1,7 @@
+[![https://github.com/purveshmakode24/git-inst](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/purveshmakode24/git-inst)
+[![HitCount](http://hits.dwyl.com/purveshmakode24/git-inst.svg)](http://hits.dwyl.com/purveshmakode24/git-inst)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/purveshmakode24/git-inst?color=%237057ff&label=hacktoberfest%202020&style=flat-square)
+
 # git-inst:bookmark_tabs:
 
 Create your Technical/Non-technical gists or even stories and share it to the world!
