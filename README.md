@@ -30,7 +30,10 @@ Please add your info to the bottom of the table in an empty row in markdown form
 ---
               
 ### To add your **Specific Gist/Post**:              
-              
+
+<div class="table-wrapper" markdown="block">
+
 `#`   | Author             | Title                                                | Link to your _Specific Gist Post_           |
 ---   | ---                | ---                                                  | ---                                         |
 1     | Purvesh Makode     |     How to keep your Fork up-to-date                 | https://gist.github.com/purveshmakode24/99f052732ec13e70806f09b80d259ec9 |   
+</div>
