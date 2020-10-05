@@ -13,11 +13,11 @@ How this works:
 
 Please add your info to the bottom of the table in an empty row in markdown format. Here are the steps:
 1. Click on "Fork" on the top right corner. 
-2. Open README.MD and edit file.
-3. Copy blank `|          |         |         |         |` line and paste it at the bottom of the table. 
+2. Open README.md and edit file.
+3. Copy blank `|          |         |         |` **OR** `|          |         |         |         |` line and paste it at the bottom of the table. 
 4. **a) Add your _Name_ & _Link to your *gists* account_** OR 
-   **b) Add your  _Name, Title & Specific link to your gist post_**
-> (You may add both but any one recommended)
+   **b) Add your  _Name, Title & Specific link to your gist post_**   
+   > (You may add both; but any one recommended)     
 5. Commit.
 6. Submit a pull request. 
 
