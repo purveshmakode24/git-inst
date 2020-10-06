@@ -22,6 +22,7 @@ Create your Technical/Non-technical gists or even stories and share them to the 
 - Commit.
 - Submit a pull request. 
 
+---
 
 ## Gists:
 
