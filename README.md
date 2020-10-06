@@ -28,6 +28,7 @@ Create your Technical/Non-technical gists or even stories and share them to the 
 
 ### To add your **All Gists**:         
 
+
 | `#` | Author             | _Link to your Gists account_  |
 | --- | ---                | ---                           |
 | 1 | Purvesh Makode      | [https://gist.github.com/purveshmakode24](https://gist.github.com/purveshmakode24) |
