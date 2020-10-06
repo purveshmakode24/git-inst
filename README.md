@@ -6,12 +6,12 @@
 
 Create your Technical/Non-technical gists or even stories and share them to the world!
 
-How this works:
+🔹 How this works:
 - Go to profile icon to the top right corner -> click on `Your gists` 
 - Create your new gist (your new gist includes any techincal/non-techical post)
 - Follow below steps 
 
-Please add your info to the bottom of the table in an empty row in markdown format. Here are the steps:
+🔹 Please add your info to the bottom of the table in an empty row in markdown format. Here are the steps:
 1. Click on "Fork" on the top right corner. 
 2. Open README.md and edit file.
 3. Copy blank `|          |         |         |` line and paste it at the bottom of the table. 
