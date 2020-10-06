@@ -28,9 +28,10 @@ Create your Technical/Non-technical gists or even stories and share them to the 
 
 ### To add your **All Gists**:         
 
-| `#`   | Author              | _Link to your Gists account_  |
-| ---   | ---                 | ---                           |
-| 1 | Purvesh Makode | [https://gist.github.com/purveshmakode24](https://gist.github.com/purveshmakode24) |
+
+| `#` | Author             | _Link to your Gists account_  |
+| --- | ---                | ---                           |
+| 1 | Purvesh Makode      | [https://gist.github.com/purveshmakode24](https://gist.github.com/purveshmakode24) |
 
 ---
               
@@ -38,4 +39,4 @@ Create your Technical/Non-technical gists or even stories and share them to the 
 
 | `#` | Author             | Title: _Link to your Specific Gist Post_  |
 | --- | ---                | ---                                       | 
-| 1 | Purvesh Makode | <ul><li>How to keep your Fork up-to-date: [https://gist.github.com/purveshmakode24/99f052732ec13e70806f09b80d259ec9](https://gist.github.com/purveshmakode24/99f052732ec13e70806f09b80d259ec9)</li><li>Protocols To Make API Calls: [https://gist.github.com/purveshmakode24/f7ba84725051b5650b29ebe7aeea4ba2](https://gist.github.com/purveshmakode24/f7ba84725051b5650b29ebe7aeea4ba2)</li><li>Python Programming - Some Important Points: [https://gist.github.com/purveshmakode24/b80a0004532e31cb7c0e3d3c981f293c](https://gist.github.com/purveshmakode24/b80a0004532e31cb7c0e3d3c981f293c)</li><li>Some Important Git commands to remember: [https://gist.github.com/purveshmakode24/aa517c8bca568c67a4ef5180a44f2936](https://gist.github.com/purveshmakode24/aa517c8bca568c67a4ef5180a44f2936)</li></ul> |
+| 1 | Purvesh Makode | ♥️ How to keep your Fork up-to-date: <br> [https://gist.github.com/purveshmakode24/99f052732ec13e70806f09b80d259ec9](https://gist.github.com/purveshmakode24/99f052732ec13e70806f09b80d259ec9) <br> ♥️ Protocols To Make API Calls: <br> [https://gist.github.com/purveshmakode24/f7ba84725051b5650b29ebe7aeea4ba2](https://gist.github.com/purveshmakode24/f7ba84725051b5650b29ebe7aeea4ba2) <br> ♥️ Python Programming - Some Important Points: <br> [https://gist.github.com/purveshmakode24/b80a0004532e31cb7c0e3d3c981f293c](https://gist.github.com/purveshmakode24/b80a0004532e31cb7c0e3d3c981f293c) <br> ♥️ Some Important Git commands to remember: <br> [https://gist.github.com/purveshmakode24/aa517c8bca568c67a4ef5180a44f2936](https://gist.github.com/purveshmakode24/aa517c8bca568c67a4ef5180a44f2936)</li></ul> |
