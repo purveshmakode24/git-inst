@@ -15,10 +15,10 @@ Create your Technical/Non-technical gists or even stories and share them to the 
 - Click on "Fork" on the top right corner. 
 - Open README.md and edit file.
 - Copy blank `|          |         |         |` line and paste it at the bottom of the table. 
-- a) **Add your Name & Link to your Gists account** <br>
-    **OR** <br> 
-  b) **Add your  Name, Title & Specific link to your Gist post**   
-  (_Note: You may add both; but any one recommended_)     
+- a) Add your **Name & Link to your Gists account**.
+     _OR_ 
+  b) Add your  **Name, Title & Specific link to your Gist post**.   
+  (*Note: You may add both; but any one recommended*)     
 - Commit.
 - Submit a pull request. 
 
