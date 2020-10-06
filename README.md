@@ -1,4 +1,5 @@
 [![https://github.com/purveshmakode24/git-inst](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/purveshmakode24/git-inst)
+![GitHub](https://img.shields.io/github/license/purveshmakode24/git-inst?style=flat-square)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/purveshmakode24/git-inst?color=%237057ff&label=hacktoberfest%202020&style=flat-square)
 
 # git-inst:bookmark_tabs:
